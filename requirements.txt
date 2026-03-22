@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+tensorflow
+streamlit
+pillow
+numpy
+pandas
+requests
